@@ -32,14 +32,6 @@ Outside of code, I'm into movies, video games, running, hiking, cooking, and rea
 
 This space is where I'll be sharing things as I go — code snippets, architecture thoughts, things I'm learning, and probably a few non-technical posts along the way too. I'm just getting started here, so check back soon.
 
-
-
-
-
-
-
-
-
 ### Projects
 
 **F1 Companion App** · [GitHub](https://github.com/rezapour)
